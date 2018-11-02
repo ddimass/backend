@@ -3,3 +3,4 @@ djangorestframework==3.9.0
 pytz==2018.6
 setuptools
 mysql-connector-python
+scrapy
