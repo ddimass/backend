@@ -80,6 +80,7 @@ DATABASES = {
         'USER': 'django',
         'PASSWORD': 'Serial111',
         'HOST': 'backend.sofit39.ru',
+	'PORT': '3306',
     }
 }
 
